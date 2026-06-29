@@ -84,14 +84,14 @@ CoresLDR_Esteira/
 
 ## Documentação
 
-- 📄 **Relatório técnico:** [docs/relatorio-tecnico.pdf](docs/relatorio-tecnico.pdf)
+- 📄 **Artigo técnico:** [docs/ArtigoSensorCores.pdf](docs/ArtigoSensorCores.pdf)
 - 🎤 **Apresentação:** [docs/apresentacao.pptx](docs/apresentacao.pptx)
 
 
 ## Integrantes
 
 | Nome | RA |
-|------|-----|
+|------|-----|  
 | Tiago Tosto Pereira Regente | 23.00815-6 |
 | Felipe Cerquiaro da Silva Trancho | 22.01106-4 |
 | Pedro Frehse Baltar | 23.95013-7 |
